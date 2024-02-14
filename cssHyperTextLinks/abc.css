@@ -1,0 +1,24 @@
+body{
+    padding: 20%;
+    font-size: 1.1rem;
+    font-family: monospace;
+}
+
+a{
+    text-decoration: none;
+    cursor:grab;
+    color: blue;
+
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover, a:focus{
+    color: magenta;
+}
+
+a:active{
+    color: violet;
+}

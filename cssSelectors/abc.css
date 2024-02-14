@@ -1,0 +1,17 @@
+body{
+    background-color: purple;
+
+}
+
+p{
+    color: yellow;
+}
+
+.root{
+    font-size: 30px;
+}
+
+#second{
+    font-style: italic;
+}
+

@@ -1,0 +1,29 @@
+body {
+    padding: 5% 10%;
+    font-size: 1.7rem;
+    font-family: cursive;
+}
+
+ol {
+    list-style-type: none;
+    text-align: center;
+    list-style-position: inside;
+    
+    padding: 0px;
+    /* list-style: square url('green-check-mark-icon-with-circle-tick-box-check-list-circle-frame-checkbox-symbol-sign-png.webp') inside; */
+}
+
+ul{
+    list-style: circle inside;
+    text-align: center;
+    color: blue;
+}
+
+ul ::marker{
+    content:"araj>>  ";
+    color: green;
+    font-family: fantasy;
+    font-size: larger;
+    
+}
+
